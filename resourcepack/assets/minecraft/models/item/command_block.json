@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/command_block",
-  "overrides": [
-	{ "predicate": { "custom_model_data": 80135}, "model": "item/custom/80135"}
-  ]
-}

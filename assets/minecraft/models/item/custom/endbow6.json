@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom/endbow1",
+  "textures": {
+    "layer0": "item/endbow6"
+  }
+}
